@@ -8,7 +8,7 @@ public class Day_4 {
 		
 		int a = 5;
 		
-		int b = 7;
+		int b = 8;
 		
 		int c = 9;
 		
