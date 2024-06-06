@@ -21,5 +21,4 @@ public class Day_6 {
 		scan.close();
 
 	}
-
 }
