@@ -13,7 +13,6 @@ public class Day_13 {
 			int nt = ft + st;
 			ft = st;
 			st = nt;
-
 		}
 	}
 }
