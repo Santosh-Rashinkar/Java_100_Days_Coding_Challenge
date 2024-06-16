@@ -13,6 +13,7 @@ public class Day_15 {
 		int n2 = scan.nextInt();
 		
 		lcm =(n1 > n2) ? n1 : n2;
+		scan.close();
 		
 		while(true) {
 			if(lcm % n1 == 0 && lcm % n2 == 0) {
