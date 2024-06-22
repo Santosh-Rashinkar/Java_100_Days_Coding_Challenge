@@ -1,6 +1,6 @@
 package com.prowings.coding.challenge;
 
-// WAP to count vowels, consonant, digits  in string .
+// WAP to count vowels, consonant, digits and White Spaces in string .
 
 public class Day_22 {
 
