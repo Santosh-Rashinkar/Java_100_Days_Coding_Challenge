@@ -27,6 +27,7 @@ public class Day_44 {
 				}
 			}
 			System.out.println(ob);
+//			System.out.println(ob);
 		}
 	}
 }
